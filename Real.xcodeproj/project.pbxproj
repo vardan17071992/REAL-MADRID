@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D00F9A832564F21000894F2A /* UEFA CHAMPIONS LEAGUE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D00F9A822564F21000894F2A /* UEFA CHAMPIONS LEAGUE.mp3 */; };
 		D03816C1248EF0FC0052FF59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03816C0248EF0FC0052FF59 /* AppDelegate.swift */; };
 		D03816C3248EF0FC0052FF59 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03816C2248EF0FC0052FF59 /* SceneDelegate.swift */; };
 		D03816C5248EF0FC0052FF59 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03816C4248EF0FC0052FF59 /* ViewController.swift */; };
@@ -17,10 +16,10 @@
 		D03816D5248EF5340052FF59 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03816D4248EF5340052FF59 /* Model.swift */; };
 		D03816D7248EF54A0052FF59 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03816D6248EF54A0052FF59 /* NewViewController.swift */; };
 		D0692A5B248EF96C00E0EDC0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0692A5A248EF96C00E0EDC0 /* TableViewCell.swift */; };
+		D0FA9B7C2569125300588D31 /* UEFA CHAMPIONS LEAGUE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0FA9B7B2569125300588D31 /* UEFA CHAMPIONS LEAGUE.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D00F9A822564F21000894F2A /* UEFA CHAMPIONS LEAGUE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "UEFA CHAMPIONS LEAGUE.mp3"; path = "../../../XCODE PICTURES/UEFA CHAMPIONS LEAGUE.mp3"; sourceTree = "<group>"; };
 		D03816BD248EF0FC0052FF59 /* Real.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Real.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D03816C0248EF0FC0052FF59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D03816C2248EF0FC0052FF59 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -32,6 +31,7 @@
 		D03816D4248EF5340052FF59 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		D03816D6248EF54A0052FF59 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		D0692A5A248EF96C00E0EDC0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		D0FA9B7B2569125300588D31 /* UEFA CHAMPIONS LEAGUE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "UEFA CHAMPIONS LEAGUE.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +112,7 @@
 		D0692A60248EFA0600E0EDC0 /* Delegates */ = {
 			isa = PBXGroup;
 			children = (
-				D00F9A822564F21000894F2A /* UEFA CHAMPIONS LEAGUE.mp3 */,
+				D0FA9B7B2569125300588D31 /* UEFA CHAMPIONS LEAGUE.mp3 */,
 				D03816C0248EF0FC0052FF59 /* AppDelegate.swift */,
 				D03816C2248EF0FC0052FF59 /* SceneDelegate.swift */,
 			);
@@ -186,7 +186,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D03816CD248EF0FF0052FF59 /* LaunchScreen.storyboard in Resources */,
-				D00F9A832564F21000894F2A /* UEFA CHAMPIONS LEAGUE.mp3 in Resources */,
+				D0FA9B7C2569125300588D31 /* UEFA CHAMPIONS LEAGUE.mp3 in Resources */,
 				D03816CA248EF0FF0052FF59 /* Assets.xcassets in Resources */,
 				D03816C8248EF0FC0052FF59 /* Main.storyboard in Resources */,
 			);
